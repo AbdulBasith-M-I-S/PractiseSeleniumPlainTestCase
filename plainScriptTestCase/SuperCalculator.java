@@ -42,7 +42,7 @@ public class SuperCalculator {
 
 		//********************************************************************************
 		
-		//1) Go to https://www.zalando.com/
+		//1) Go to https://juliemr.github.io/protractor-demo/
 		driver.get("https://juliemr.github.io/protractor-demo/");
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
